@@ -1,0 +1,39 @@
+body
+{
+    background-color: #dcc5b7;
+}
+
+#Title
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
+    text-align: center;
+}
+
+.list
+{
+    background-color: #c05d22;
+}
+
+.list .la
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: wheat;
+    text-align: center;
+}
+
+.list .sa
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    color: wheat;
+}
+
+.list .tri
+{
+    color: wheat;
+    font-size: 25px;
+    text-align: right;
+}

@@ -1,0 +1,49 @@
+body
+{
+    background-color: #dcc5b7;
+}
+
+#TitleLA
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+}
+
+#desc
+{
+    text-align: center;
+    background-color: #c05d22;
+    color: wheat;
+}
+
+#elements
+{
+    text-align: center;
+    background-color: #c05d22;
+    color: wheat;
+}
+
+.listEL
+{
+    background-color: #d7b7dc;
+}
+
+#moves
+{
+    text-align: center;
+    background-color: #c05d22;
+    color: wheat;
+}
+
+.steps
+{
+    background-color: #d7b7dc;
+}
+
+#back
+{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+}
